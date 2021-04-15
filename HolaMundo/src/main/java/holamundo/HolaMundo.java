@@ -12,7 +12,7 @@ package holamundo;
 public class HolaMundo {
     public static void main(String[] args) {
         System.out.println("Adios Mundo1");
-        //Empiezo a implementar la funcionalidad
+        //Empiezo a implementar la funcionalidad seguimos haciendo cosas
     }
     
 }
